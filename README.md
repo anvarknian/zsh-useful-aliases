@@ -147,6 +147,6 @@ export EDITOR="code --wait"                  # Set VS Code as default editor
 export VISUAL="code --wait"                  # Set VS Code as default visual editor
 ```
 
-
-`~/.zprofile` → Environment stuff that should load for all shells (PATH, Conda init, EDITOR/VISUAL exports).
-`~/.zshrc` → Your alias block, prompt config, shell options.
+# 📝 Note
+- `~/.zprofile` → Environment stuff that should load for all shells (PATH, Conda init, EDITOR/VISUAL exports).
+- `~/.zshrc` → Your alias block, prompt config, shell options.
